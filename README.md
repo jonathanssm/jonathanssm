@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e inovação, com experiência em desenvolvimento 
 ## 🎓 Formação
 
 - **Bacharelado em Ciência da Computação**  
-  UNIT - Universidade Tiradesnte
+  UNIT - Universidade Tiradentes
 
 ---
 
